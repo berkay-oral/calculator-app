@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/calculator-app/static/css/main.e0817e99.chunk.css",
+    "main.js": "/calculator-app/static/js/main.16b93118.chunk.js",
+    "main.js.map": "/calculator-app/static/js/main.16b93118.chunk.js.map",
+    "runtime-main.js": "/calculator-app/static/js/runtime-main.005640a2.js",
+    "runtime-main.js.map": "/calculator-app/static/js/runtime-main.005640a2.js.map",
+    "static/css/2.d45d6843.chunk.css": "/calculator-app/static/css/2.d45d6843.chunk.css",
+    "static/js/2.b1aa93c1.chunk.js": "/calculator-app/static/js/2.b1aa93c1.chunk.js",
+    "static/js/2.b1aa93c1.chunk.js.map": "/calculator-app/static/js/2.b1aa93c1.chunk.js.map",
+    "static/js/3.f2b0bd26.chunk.js": "/calculator-app/static/js/3.f2b0bd26.chunk.js",
+    "static/js/3.f2b0bd26.chunk.js.map": "/calculator-app/static/js/3.f2b0bd26.chunk.js.map",
+    "index.html": "/calculator-app/index.html",
+    "static/css/2.d45d6843.chunk.css.map": "/calculator-app/static/css/2.d45d6843.chunk.css.map",
+    "static/css/main.e0817e99.chunk.css.map": "/calculator-app/static/css/main.e0817e99.chunk.css.map",
+    "static/js/2.b1aa93c1.chunk.js.LICENSE.txt": "/calculator-app/static/js/2.b1aa93c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.005640a2.js",
+    "static/css/2.d45d6843.chunk.css",
+    "static/js/2.b1aa93c1.chunk.js",
+    "static/css/main.e0817e99.chunk.css",
+    "static/js/main.16b93118.chunk.js"
+  ]
+}
